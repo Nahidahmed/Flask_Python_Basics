@@ -20,9 +20,9 @@ Basics of Flask using Python
 
 
 3. On the terminal, navigate to the folder which contains application.py and run the command:
-    a. Create environment: $ python3 -m venv venv
-    b. Activate the environment: $ . venv/bin/activate
-    c. Install Flask: $ pip install Flask
-    d. Finally run the application.py: flask run (runs with debug mode off)
-   			(This will start the web server and provide the url on which it is running)
-    e. To run in dev mode: FLASK_ENV = development flask run 
+            a. Create environment: $ python3 -m venv venv
+            b. Activate the environment: $ . venv/bin/activate
+            c. Install Flask: $ pip install Flask
+            d. Finally run the application.py: flask run (runs with debug mode off)
+                    (This will start the web server and provide the url on which it is running)
+            e. To run in dev mode: FLASK_ENV = development flask run 
