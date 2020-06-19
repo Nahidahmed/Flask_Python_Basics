@@ -25,4 +25,4 @@ Basics of Flask using Python
     c. Install Flask: $ pip install Flask
     d. Finally run the application.py: flask run (runs with debug mode off)
    			(This will start the web server and provide the url on which it is running)
-    e. To run in dev mode: FLASK_ENV = development flask run
+    e. To run in dev mode: FLASK_ENV = development flask run 
