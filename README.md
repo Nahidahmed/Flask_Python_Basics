@@ -19,7 +19,7 @@ Basics of Flask using Python
                   return "Hello Nahid!!"
 
 
-3. On the terminal, navigate to the folder which contains application.py and run the command:
+3. On the terminal, navigate to the folder which contains application.py and run the commands:
 
             a. Create environment: $ python3 -m venv venv
             b. Activate the environment: $ . venv/bin/activate
